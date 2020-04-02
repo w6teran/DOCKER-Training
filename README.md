@@ -7,16 +7,27 @@ All the necessary materials needed will be posted here.
 Lab Guides:
 
 Docker Install
+
 Docker Image Management
+
 Docker Running Containers
+
 Docker Dockerfile
+
 Docker Compose
+
 Docker Swarm
+
 Docker Replicas
-Docker Global Mdode
+
+Docker Global Mode
+
 Docker Storage
+
 Docker External Volumes
+
 Docker Networks
+
 Docker Desktop Install (Bonus Lab)
 
 
