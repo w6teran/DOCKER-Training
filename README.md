@@ -6,11 +6,9 @@ All the necessary materials needed will be posted here.
 
 Lab Guides:
 
-Docker Install
-
-Docker Image Management
-
-Docker Running Containers
+- Docker Install
+- Docker Image Management
+- Docker Running Containers
 
 Docker Dockerfile
 
