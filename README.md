@@ -9,25 +9,15 @@ Lab Guides:
 - Docker Install
 - Docker Image Management
 - Docker Running Containers
-
-Docker Dockerfile
-
-Docker Compose
-
-Docker Swarm
-
-Docker Replicas
-
-Docker Global Mode
-
-Docker Storage
-
-Docker External Volumes
-
-Docker Networks
-
-Docker Desktop Install (Bonus Lab)
-
+- Docker Dockerfile
+- Docker Compose
+- Docker Swarm
+- Docker Replicas
+- Docker Global Mode
+- Docker Storage
+- Docker External Volumes
+- Docker Networks
+- Docker Desktop Install (Bonus Lab)
 
 Open the Docker LAB User Config, there will be some unique data per user for some of the labs.
 
