@@ -1,4 +1,4 @@
-# PANW MCA Cloud & Containers Training Session #3
+# PANW LATAM Cloud & Containers Training Session #3
 
 This is the repository for the Docker Training part of Cloud & Containers Training
 
