@@ -21,6 +21,6 @@ Lab Guides:
 
 Open the Docker LAB User Config, there will be some unique data per user for some of the labs.
 
-You can download all the material from Gitub to your own PC.
+You can download all the material from Github to your own PC.
 
 Let's have some fun!!! Go Palo Alto Networks!!!
